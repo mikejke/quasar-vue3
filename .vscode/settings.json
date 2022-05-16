@@ -1,0 +1,4 @@
+{
+  "stylelint.validate": ["vue"],
+  "alias-resolver.type": "custom"
+}
